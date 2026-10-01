@@ -5,7 +5,9 @@ Step-by-step check-up, see where you're at with your project's marketing and wha
 2. **Have a clear CTA** Meaning Call to Action. What do you want from people? Are you looking for testers? Users? Contributors? Sponsors? People need to know what your project **is**, what it **does** and what do you want them to **do** with it.
 ### Good examples:
 **Lustre** "A Gleam web framework for building HTML templates, single page applications, and real-time server components."
+
 **Pushin** "European Git hosting. Git hosting that never leaves Europe. Explore repos/Start using Pushin" 
+
 **Atom VM** "AtomVM lets you build with Erlang, Elixir and Gleam for microcontrollers, IoT systems and WebAssembly-powered frontends, using familiar tools and a modern concurrent programming model."
 
 ## Can people find it?
