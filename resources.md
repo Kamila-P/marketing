@@ -1,6 +1,6 @@
 ## My talks
 - **[Your project is great! More people should know about it!](https://www.youtube.com/watch?v=bsm8drjVS54)** A lightning talk from ElixirConf EU 2026.
-- **[Marketing is not a dirty word](https://www.goatmire.com/talk/marketing-is-not-a-dirty-word)** A talk from Goatmire 2026. Slides soon, recording later.
+- **[Marketing is not a dirty word](https://www.goatmire.com/talk/marketing-is-not-a-dirty-word)** A talk from Goatmire 2026. Slides [here](https://github.com/Kamila-P/marketing/blob/main/Marketing_is_not_a_dirty_word_Kamila_Pokoj_Goatmire_2026.pdf), recording later.
 - **[Reverse engineering marketing for devs](https://codebeameurope.com/talks/reverse-engineering-marketing-for-devs/)** A talk from Code BEAM Europe 2026. Slides in October, recording later.
 
 
